@@ -1,0 +1,293 @@
+.class{
+    margin-left:-10px;
+    margin-right:-10px;
+    height:755px;
+    width:1538px;
+    margin-top:-10px;
+    margin-bottom:-15px;    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.nav{
+    display:inline-block;
+    color:white;
+    position: absolute;
+    margin-top:-700px;
+    margin-left:950px;
+
+    
+}
+
+.nav1{
+    display:inline-block;
+    color:white;
+    position: absolute;
+    margin-top:-700px;
+    margin-left:1100px;
+    
+    
+}
+
+.nav2{
+    display:inline-block;
+    color:white;
+    position: absolute;
+    margin-top:-700px;
+    margin-left:1270px;
+    
+    
+}
+
+.menu{
+    position:absolute;
+    margin-top:-710px;
+    margin-left:1400px;
+}
+
+.logo{
+    position:absolute;
+    margin-top:-700px;
+    margin-left:100px;
+}
+
+.head{
+    color:white;
+    font-size:85px;
+    font-weight: bold;
+    position: absolute;
+    margin-top:-500px;
+    margin-left:100px;
+}
+
+.paragraph{
+    color:white;
+    font-size:17px;
+    position: absolute;
+    margin-top:-400px;
+    margin-left:100px;
+    line-height: 2em;
+}
+
+
+.button{
+    border:1px solid white;
+    background-color: white;
+    border-radius:50px;
+    position:absolute;
+    margin-top:-260px;
+    margin-left:100px;
+    width:230px;
+    height:28px;
+    text-align:center;
+    padding-top: 15px;
+}
+
+
+.image{
+    position:absolute;
+    border:transparent;
+    border-radius:12px;
+    height:270px;
+    width:260px;
+    margin-top:-640px;
+    margin-left:750px;
+}
+
+.image1{
+    position:absolute;
+    border:transparent;
+    border-radius:20px;
+    height:270px;
+    width:260px;
+    margin-top:-640px;
+    margin-left:1100px;
+}
+
+
+.image2{
+    position:absolute;
+    border:transparent;
+    border-radius:20px;
+    height:270px;
+    width:260px;
+    margin-top:-340px;
+    margin-left:750px;
+}
+
+
+.image3{
+    position:absolute;
+    border:transparent;
+    border-radius:20px;
+    height:270px;
+    width:260px;
+    margin-top:-340px;
+    margin-left:1100px;
+}
+
+.child1{
+    color:white;
+    position:absolute;
+    margin-top:-640px;
+    margin-left:760px;
+}
+
+
+.child2{
+    color:white;
+    position:absolute;
+    margin-top:-640px;
+    margin-left:1110px;
+}
+
+.child3{
+    color:white;
+    position:absolute;
+    margin-top:-330px;
+    margin-left:760px;
+}
+
+.child4{
+    color:white;
+    position:absolute;
+    margin-top:-330px;
+    margin-left:1110px;
+}
+
+@media screen and (max-width:1200px){
+    body {
+        background-image: url("sahara.jpg");
+        background-repeat:repeat;
+        
+        
+      }
+
+      .class{
+        width:540px;
+      }
+
+      .logo{
+          margin-left:-0.5px;
+          margin-top: -730px;
+          
+      }
+
+      .head{
+          font-size:30px;
+          margin-top:-680px;
+          margin-left:-1px
+      }
+
+      .paragraph{
+        font-size:12px;
+        margin-top:-640px;
+        margin-left:-1px
+      }
+
+      .button{
+          margin-top:-520px;
+          width:160px;
+          height:20px;
+          margin-left:-1px;
+        }
+
+      .nav{
+          
+          float:right;
+          position: relative;
+          margin-right: 75px;
+          margin-top: -730px;
+
+
+      }
+
+      .nav1{
+          
+        float:right;
+        position: relative;
+        margin-right: 65px;
+        margin-top: -710px;
+
+
+    }
+
+    .nav2{
+          
+        float:right;
+        position: relative;
+        margin-right: 70px;
+        margin-top: -690px;
+    }
+
+    .menu{
+        float:right;
+        position: relative;
+        margin-right: 10px;
+        margin-top: -730px;
+    }
+
+    
+    .image{
+        position:relative;
+        margin-right:40px;
+        float:right;
+        margin-top:-400px;
+    }
+
+    .image1{
+        position:relative;
+        margin-right:40px;
+        float:right;
+        margin-top:-100px;
+    }
+
+    .image2{
+        position:relative;
+        margin-right:40px;
+        float:right;
+        margin-top:50px;
+    }
+
+    .image3{
+        position:relative;
+        margin-right:40px;
+        float:right;
+        margin-top:40px;
+    }
+
+    .child1{
+        position:relative;
+        margin-right:150px;
+        float:right;
+        margin-top:-1200px;
+    }
+
+    .child2{
+        position:relative;
+        margin-right:150px;
+        float:right;
+        margin-top:-900px;
+    }
+
+    .child3{
+        position:relative;
+        margin-right:150px;
+        float:right;
+        margin-top:-570px;
+    }
+
+    .child4{
+        position:relative;
+        margin-right:150px;
+        float:right;
+        margin-top:-260px;
+    }
+
+    }
+
+   
